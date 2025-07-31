@@ -1,10 +1,7 @@
 README
 
-Student Name:
-Michael Cunningham
-
-Student Number:
-21362621
+Created By: Michael Cunningham
+As part of the 🎓 University College Dublin Stage 4 Computer Science Program. 
 
 
 # 🏎️ 🏁 F1 RCC - Formula One Real-Time Comms Cleaner 🏎️ 🏁
