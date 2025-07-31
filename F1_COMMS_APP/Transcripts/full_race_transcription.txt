@@ -1,0 +1,609 @@
+[11.54s] 2 teams radio,
+[12.26s] 3 teams box,
+[12.28s] 4 teams inters,
+[12.30s] 
+[12.30s] 
+[16.00s] 8 teams box,
+[16.36s] 9 teams inters,
+[17.34s] 12 teams box,
+[17.62s] 13 teams inters,
+[19.88s] 13 teams box,
+[20.18s] 14 teams inters,
+[21.52s] 15 teams box,
+[21.86s] 13 teams inters,
+[29.98s] 
+[32.06s] So next car ahead, Verlijn.
+[89.42s] Verlijn,
+[89.46s] 12 teams box,
+[89.54s] 13 teams box,
+[89.56s] 
+[89.56s] 13 teams box,
+[89.58s] 
+[89.58s] 
+[89.58s] 
+[89.58s] 
+[89.58s] 
+[89.58s] 14 teams box,
+[89.90s] 
+[89.90s] 
+[89.92s] 
+[99.02s] 14 teams box,
+[101.74s] 14 teams box,
+[102.80s] 14 teams box,
+[104.32s] 14 teams box,
+[104.40s] 
+[104.40s] 
+[104.40s] 
+[104.40s] 
+[104.40s] 
+[104.40s] 
+[104.40s] 
+[104.40s] 
+[104.90s] 14 teams box,
+[108.62s] 14 teams box,
+[132.38s] 14 teams box,
+[132.82s] 
+[132.82s] 
+[132.84s] 
+[132.84s] 
+[132.86s] 14 teams box,
+[133.12s] 
+[133.12s] 
+[133.12s] 14 teams box,
+[133.28s] 14 teams box,
+[133.72s] 14 teams box,
+[135.02s] 14 teams box,
+[135.76s] 14 teams box,
+[140.40s] 14 teams box,
+[158.22s] 14 teams box,
+[159.14s] 
+[159.14s] 14 teams box,
+[159.26s] 
+[159.26s] 
+[159.26s] 
+[159.26s] 
+[159.56s] 14 teams box,
+[159.82s] 14 teams box,
+[160.46s] 14 teams box,
+[162.64s] 14 teams box,
+[163.60s] 14 teams box,
+[165.56s] 14 teams box,
+[167.52s] 14 teams box,
+[200.76s] 14 teams box,
+[201.38s] 14 teams box,
+[202.84s] 14 teams box,
+[203.46s] 14 teams box,
+[203.68s] 
+[203.68s] 
+[203.68s] 
+[203.68s] 
+[203.68s] 
+[203.68s] 
+[203.68s] 
+[203.68s] 
+[203.70s] 14 teams box,
+[203.78s] 14 teams box,
+[203.90s] 14 teams box,
+[204.40s] 14 teams box,
+[204.78s] 14 teams box,
+[205.08s] 
+[207.34s] 14 teams box,
+[208.80s] 
+[208.80s] 
+[208.80s] 14 teams box,
+[209.64s] 14 teams box,
+[210.88s] 14 teams box,
+[212.70s] 14 teams box,
+[213.56s] 14 teams box,
+[217.64s] 14 teams box,
+[222.32s] 14 teams box,
+[244.94s] 14 teams box,
+[245.50s] 
+[245.50s] 
+[245.50s] 14 teams box,
+[245.54s] 14 teams box,
+[245.62s] 14 teams box,
+[245.64s] 
+[245.64s] 
+[245.64s] 
+[245.64s] 14 teams box,
+[247.30s] 14 teams box,
+[248.94s] 14 teams box,
+[250.92s] 14 teams box,
+[252.44s] 14 teams box,
+[256.50s] 14 teams box,
+[274.18s] 14 teams box,
+[275.24s] 
+[275.24s] 14 teams box,
+[275.30s] 14 teams box,
+[276.00s] 14 teams box,
+[276.40s] 
+[276.40s] 14 teams box,
+[276.60s] 
+[276.60s] 14 teams box,
+[278.52s] 14 teams box,
+[279.44s] 14 teams box,
+[282.34s] 14 teams box,
+[283.80s] 14 teams box,
+[285.94s] 14 teams box,
+[288.54s] 14 teams box,
+[303.98s] 14 teams box,
+[304.68s] 14 teams box,
+[304.74s] 
+[304.74s] 
+[304.74s] 
+[304.74s] 14 teams box,
+[305.96s] 14 teams box,
+[306.04s] 14 teams box,
+[308.14s] 
+[308.14s] 
+[308.14s] 14 teams box,
+[309.24s] 14 teams box,
+[310.26s] 14 teams box,
+[312.72s] 14 teams box,
+[316.22s] 14 teams box,
+[335.14s] 14 teams box,
+[336.04s] 14 teams box,
+[336.06s] 
+[336.06s] 
+[336.06s] 
+[336.06s] 14 teams box,
+[336.56s] 14 teams box,
+[336.88s] 14 teams box,
+[337.42s] 14 teams box,
+[338.44s] 14 teams box,
+[340.26s] 14 teams box,
+[341.52s] 14 teams box,
+[343.30s] 14 teams box,
+[345.80s] 14 teams box,
+[362.90s] 14 teams box,
+[364.88s] 14 teams box,
+[365.02s] 
+[365.02s] 14 teams box,
+[365.14s] 14 teams box,
+[365.18s] 
+[365.18s] 14 teams box,
+[365.50s] 
+[365.50s] 
+[365.50s] 14 teams box,
+[367.20s] 14 teams box,
+[368.78s] 14 teams box,
+[370.78s] 14 teams box,
+[373.96s] 14 teams box,
+[381.16s] 14 teams box,
+[382.12s] 14 teams box,
+[382.80s] 14 teams box,
+[383.42s] 14 teams box,
+[386.56s] 14 teams box,
+[387.42s] 14 teams box,
+[387.82s] 
+[387.82s] 
+[387.82s] 
+[387.90s] 14 teams box,
+[389.06s] 14 teams box,
+[389.98s] 14 teams box,
+[390.76s] 14 teams box,
+[392.94s] 14 teams box,
+[415.00s] 14 teams box,
+[416.28s] 
+[416.28s] 
+[416.28s] 
+[416.28s] 14 teams box,
+[417.80s] 14 teams box,
+[418.16s] 
+[418.16s] 14 teams box,
+[418.70s] 14 teams box,
+[419.36s] 14 teams box,
+[421.14s] 14 teams box,
+[422.38s] 14 teams box,
+[425.80s] 14 teams box,
+[428.40s] 14 teams box,
+[446.46s] 14 teams box,
+[447.10s] 14 teams box,
+[447.12s] 14 teams box,
+[447.16s] 
+[447.18s] 14 teams box,
+[447.20s] 14 teams box,
+[447.94s] 
+[447.94s] 
+[447.94s] 
+[447.94s] 14 teams box,
+[448.18s] 14 teams box,
+[448.50s] 14 teams box,
+[448.52s] 14 teams box,
+[453.12s] 14 teams box,
+[457.66s] 14 teams box,
+[475.70s] 14 teams box,
+[476.38s] 
+[476.38s] 
+[476.38s] 
+[476.38s] 14 teams box,
+[477.50s] 14 teams box,
+[478.06s] 
+[478.06s] 14 teams box,
+[478.10s] 
+[478.10s] 
+[478.10s] 14 teams box,
+[478.88s] 14 teams box,
+[481.24s] 14 teams box,
+[488.38s] 14 teams box,
+[491.90s] 14 teams box,
+[497.60s] 
+[497.60s] 
+[499.40s] 14 teams box,
+[501.04s] 14 teams box,
+[502.18s] 14 teams box,
+[502.80s] 
+[502.80s] 14 teams box,
+[504.54s] 14 teams box,
+[505.90s] 14 teams box,
+[506.50s] 14 teams box,
+[511.02s] 14 teams box,
+[513.92s] 14 teams box,
+[516.16s] 14 teams box,
+[538.84s] 14 teams box,
+[539.32s] 
+[539.32s] 
+[539.32s] 
+[539.32s] 
+[539.32s] 14 teams box,
+[539.58s] 14 teams box,
+[539.86s] 14 teams box,
+[540.06s] 14 teams box,
+[540.10s] 
+[540.66s] 14 teams box,
+[542.52s] 14 teams box,
+[544.00s] 14 teams box,
+[545.42s] 14 teams box,
+[553.78s] 14 teams box,
+[557.12s] 14 teams box,
+[558.84s] 14 teams box,
+[561.22s] 14 teams box,
+[561.58s] 
+[561.58s] 
+[561.58s] 
+[561.58s] 
+[561.58s] 
+[561.58s] 14 teams box,
+[561.68s] 
+[561.68s] 14 teams box,
+[562.68s] 14 teams box,
+[590.22s] 14 teams box,
+[591.26s] 
+[591.26s] 
+[591.28s] 14 teams box,
+[591.30s] 14 teams box,
+[591.36s] 14 teams box,
+[592.14s] 14 teams box,
+[592.34s] 
+[592.34s] 
+[592.34s] 14 teams box,
+[593.10s] 14 teams box,
+[593.98s] 14 teams box,
+[596.88s] 14 teams box,
+[600.40s] 14 teams box,
+[605.88s] 14 teams box,
+[607.34s] 
+[607.34s] 14 teams box,
+[611.12s] 14 teams box,
+[611.64s] 14 teams box,
+[613.94s] 14 teams box,
+[615.40s] 14 teams box,
+[615.84s] 14 teams box,
+[619.58s] 14 teams box,
+[622.92s] 14 teams box,
+[625.90s] 14 teams box,
+[628.54s] 14 teams box,
+[629.76s] 14 teams box,
+[630.78s] 14 teams box,
+[644.84s] 14 teams box,
+[645.22s] 
+[645.22s] 
+[645.22s] 
+[645.22s] 14 teams box,
+[646.00s] 14 teams box,
+[647.16s] 14 teams box,
+[647.26s] 14 teams box,
+[648.36s] 14 teams box,
+[649.12s] 14 teams box,
+[650.94s] 14 teams box,
+[651.90s] 14 teams box,
+[656.50s] 14 teams box,
+[659.88s] 14 teams box,
+[675.84s] 14 teams box,
+[677.02s] 14 teams box,
+[677.06s] 
+[677.06s] 
+[677.06s] 
+[677.06s] 
+[677.06s] 
+[677.06s] 14 teams box,
+[678.38s] 14 teams box,
+[678.40s] 14 teams box,
+[678.80s] 14 teams box,
+[680.30s] 14 teams box,
+[680.94s] 14 teams box,
+[686.20s] 14 teams box,
+[710.06s] 14 teams box,
+[714.10s] 14 teams box,
+[716.36s] 14 teams box,
+[717.22s] 14 teams box,
+[717.42s] 
+[717.42s] 
+[717.42s] 
+[717.42s] 
+[717.42s] 
+[717.42s] 
+[717.42s] 
+[717.42s] 
+[717.42s] 14 teams box,
+[717.48s] 14 teams box,
+[719.48s] 14 teams box,
+[721.82s] 14 teams box,
+[724.54s] 14 teams box,
+[724.64s] 
+[724.64s] 
+[728.30s] 14 teams box,
+[729.82s] 14 teams box,
+[731.34s] 
+[731.34s] 14 teams box,
+[732.42s] 
+[732.42s] 
+[732.46s] 14 teams box,
+[733.50s] 14 teams box,
+[734.42s] 14 teams box,
+[738.20s] 14 teams box,
+[762.18s] 14 teams box,
+[762.86s] 
+[762.86s] 
+[762.86s] 
+[762.86s] 14 teams box,
+[763.50s] 14 teams box,
+[764.30s] 
+[764.30s] 14 teams box,
+[765.30s] 14 teams box,
+[765.46s] 14 teams box,
+[765.74s] 14 teams box,
+[766.88s] 14 teams box,
+[767.80s] 14 teams box,
+[769.02s] 14 teams box,
+[772.38s] 14 teams box,
+[796.46s] 14 teams box,
+[797.46s] 
+[797.46s] 
+[797.46s] 
+[797.46s] 
+[797.46s] 14 teams box,
+[797.50s] 
+[797.50s] 14 teams box,
+[797.80s] 
+[797.80s] 
+[797.80s] 14 teams box,
+[798.50s] 14 teams box,
+[801.48s] 14 teams box,
+[804.04s] 14 teams box,
+[813.80s] 14 teams box,
+[816.60s] 14 teams box,
+[818.12s] 14 teams box,
+[818.68s] 
+[818.68s] 
+[818.68s] 
+[818.68s] 
+[818.68s] 
+[818.68s] 14 teams box,
+[819.08s] 14 teams box,
+[819.10s] 
+[819.10s] 14 teams box,
+[820.72s] 14 teams box,
+[822.54s] 14 teams box,
+[848.10s] 14 teams box,
+[849.32s] 
+[849.32s] 
+[849.32s] 14 teams box,
+[849.34s] 14 teams box,
+[849.58s] 14 teams box,
+[850.54s] 
+[850.54s] 
+[850.54s] 
+[850.54s] 14 teams box,
+[851.22s] 14 teams box,
+[852.66s] 14 teams box,
+[853.76s] 14 teams box,
+[857.24s] 14 teams box,
+[878.22s] 14 teams box,
+[878.88s] 
+[878.88s] 
+[878.88s] 
+[878.88s] 14 teams box,
+[879.24s] 14 teams box,
+[879.80s] 14 teams box,
+[879.82s] 
+[879.82s] 
+[879.82s] 14 teams box,
+[879.90s] 14 teams box,
+[880.06s] 14 teams box,
+[881.96s] 14 teams box,
+[884.56s] 14 teams box,
+[902.78s] 14 teams box,
+[903.54s] 
+[903.54s] 
+[903.54s] 14 teams box,
+[903.74s] 14 teams box,
+[903.92s] 14 teams box,
+[903.98s] 14 teams box,
+[904.18s] 14 teams box,
+[905.06s] 14 teams box,
+[905.56s] 14 teams box,
+[907.60s] 14 teams box,
+[908.24s] 14 teams box,
+[909.68s] 14 teams box,
+[910.44s] 14 teams box,
+[919.72s] 14 teams box,
+[920.86s] 14 teams box,
+[921.20s] 14 teams box,
+[921.52s] 14 teams box,
+[925.58s] 14 teams box,
+[926.34s] 14 teams box,
+[927.52s] 14 teams box,
+[928.02s] 14 teams box,
+[928.78s] 14 teams box,
+[930.20s] 14 teams box,
+[933.44s] 14 teams box,
+[936.56s] 14 teams box,
+[938.04s] 14 teams box,
+[945.72s] 14 teams box,
+[967.90s] 14 teams box,
+[970.60s] 14 teams box,
+[971.10s] 
+[971.10s] 
+[971.10s] 
+[971.10s] 
+[971.10s] 14 teams box,
+[971.14s] 14 teams box,
+[971.22s] 14 teams box,
+[971.26s] 14 teams box,
+[971.30s] 14 teams box,
+[971.36s] 
+[971.36s] 
+[973.22s] 14 teams box,
+[985.62s] 14 teams box,
+[987.54s] 14 teams box,
+[993.28s] 14 teams box,
+[993.76s] 14 teams box,
+[994.34s] 
+[994.34s] 
+[994.34s] 
+[994.34s] 
+[994.34s] 
+[994.34s] 14 teams box,
+[994.36s] 
+[994.36s] 14 teams box,
+[994.94s] 14 teams box,
+[997.00s] 14 teams box,
+[1020.38s] 14 teams box,
+[1021.08s] 
+[1021.08s] 
+[1021.08s] 
+[1021.08s] 
+[1021.08s] 14 teams box,
+[1021.52s] 14 teams box,
+[1021.70s] 14 teams box,
+[1022.20s] 14 teams box,
+[1022.22s] 14 teams box,
+[1023.56s] 14 teams box,
+[1023.98s] 14 teams box,
+[1024.90s] 14 teams box,
+[1026.96s] 14 teams box,
+[1030.48s] 14 teams box,
+[1035.68s] 14 teams box,
+[1037.18s] 
+[1037.18s] 14 teams box,
+[1041.56s] 14 teams box,
+[1043.46s] 14 teams box,
+[1045.70s] 14 teams box,
+[1049.98s] 14 teams box,
+[1052.64s] 14 teams box,
+[1053.76s] 14 teams box,
+[1057.10s] 14 teams box,
+[1057.94s] 14 teams box,
+[1058.42s] 14 teams box,
+[1058.88s] 14 teams box,
+[1059.42s] 14 teams box,
+[1077.02s] 14 teams box,
+[1077.90s] 14 teams box,
+[1077.94s] 
+[1077.94s] 
+[1077.98s] 14 teams box,
+[1079.12s] 14 teams box,
+[1080.86s] 14 teams box,
+[1082.10s] 14 teams box,
+[1082.52s] 
+[1082.52s] 14 teams box,
+[1082.94s] 14 teams box,
+[1083.52s] 14 teams box,
+[1086.16s] 14 teams box,
+[1086.74s] 14 teams box,
+[1091.00s] 14 teams box,
+[1106.88s] 14 teams box,
+[1107.68s] 
+[1107.68s] 
+[1107.68s] 
+[1107.68s] 14 teams box,
+[1108.64s] 14 teams box,
+[1109.40s] 14 teams box,
+[1109.72s] 14 teams box,
+[1110.36s] 14 teams box,
+[1110.44s] 14 teams box,
+[1110.54s] 14 teams box,
+[1111.78s] 14 teams box,
+[1112.74s] 14 teams box,
+[1116.56s] 14 teams box,
+[1136.28s] 14 teams box,
+[1137.36s] 
+[1137.36s] 
+[1137.36s] 
+[1137.36s] 14 teams box,
+[1138.04s] 
+[1138.04s] 14 teams box,
+[1138.40s] 
+[1138.40s] 14 teams box,
+[1138.56s] 14 teams box,
+[1139.50s] 14 teams box,
+[1140.36s] 14 teams box,
+[1143.66s] 14 teams box,
+[1146.68s] 14 teams box,
+[1168.76s] 14 teams box,
+[1169.80s] 
+[1169.80s] 
+[1169.80s] 
+[1169.82s] 
+[1169.82s] 
+[1169.82s] 
+[1169.82s] 
+[1169.82s] 
+[1169.82s] 
+[1169.82s] 14 teams box,
+[1170.34s] 14 teams box,
+[1173.60s] 14 teams box,
+[1177.98s] 14 teams box,
+[1181.50s] 14 teams box,
+[1208.24s] 14 teams box,
+[1210.94s] 14 teams box,
+[1211.48s] 
+[1211.48s] 
+[1211.48s] 
+[1211.48s] 
+[1211.48s] 
+[1211.48s] 
+[1211.48s] 
+[1211.48s] 
+[1211.48s] 
+[1211.48s] 
+[1211.48s] 
+[1211.48s] 
+[1211.50s] 14 teams box,
+[1211.68s] 14 teams box,
+[1212.40s] 14 teams box,
+[1212.76s] 
+[1212.76s] 14 teams box,
+[1213.66s] 14 teams box,
+[1214.50s] 14 teams box,
+[1215.68s] 14 teams box,
+[1216.02s] 
+[1216.02s] 14 teams box,
+[1216.72s] 14 teams box,
+[1223.84s] 14 teams box,
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
+[1226.36s] 
